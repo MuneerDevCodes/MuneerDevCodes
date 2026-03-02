@@ -82,8 +82,8 @@ I build modular, performance-optimized applications designed for long-term maint
   <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://your-live-demo-link.com">
-  <img src="https://img.shields.io/badge/Live_Demo-Preview_System-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="#">
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-9E9E9E?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/yourusername/hotel-management-system/archive/refs/heads/main.zip">
@@ -107,8 +107,8 @@ I build modular, performance-optimized applications designed for long-term maint
   <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://your-live-demo-link.com">
-  <img src="https://img.shields.io/badge/Live_Demo-Preview_System-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="#">
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-9E9E9E?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/yourusername/eventsphere/archive/refs/heads/main.zip">
@@ -157,10 +157,9 @@ I build modular, performance-optimized applications designed for long-term maint
   <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://your-live-demo-link.com">
-  <img src="https://img.shields.io/badge/Live_Demo-Preview_UI-00C853?style=for-the-badge&logo=netlify&logoColor=white"/>
+<a href="#">
+  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-9E9E9E?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/yourusername/maverick-dresses/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/Download-Source_Code-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
