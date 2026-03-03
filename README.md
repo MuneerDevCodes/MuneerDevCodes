@@ -8,15 +8,12 @@
   <b>Full Stack Engineer • MERN Architect • Scalable Systems Builder</b>
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;MERN+Stack+Architect;Enterprise+Dashboard+Specialist;Secure+Backend+Engineer;Performance+Driven+Developer" />
 </p>
 
 <p align="center">
-  <sub>
-    Designing systems that scale. Writing code that lasts. Delivering products that perform.
-  </sub>
+  Building systems that scale and applications that stay maintainable over time.
 </p>
 
 <p align="center">
@@ -39,24 +36,26 @@
 
 
 
-## 🧠 About
+## About
 
-Full Stack Engineer focused on scalable architecture, secure backend systems, and enterprise-grade dashboard development.
+I’m a full stack developer who enjoys building complete systems from scratch — starting from database design all the way to frontend deployment.
 
-I build modular, performance-optimized applications designed for long-term maintainability and real-world business growth.
+Over time, I’ve worked on structured dashboard systems, authentication flows, role-based architectures, and business-focused applications. My focus is always on writing clean, understandable code that can be maintained and extended easily.
+
+I pay attention to project structure, naming conventions, API security, and database relationships because those small decisions are what make a system stable in the long run.
+
+For me, development is not just about making something work — it’s about making it reliable and scalable.
+
 
 
 # 🛠 Tech Stack
-
 
 <p align="center">
   <img height="100" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,nodejs,express,nestjs,php,laravel,python,mongodb,mysql,postgres,docker,git,github,postman,firebase,wordpress,shopify" />
 </p>
 
 <p align="center">
-  <sub>
-    Frontend • Backend • Database • DevOps • CMS • Commerce
-  </sub>
+  Frontend • Backend • Database • DevOps • CMS • Commerce
 </p>
 
 ---
@@ -167,7 +166,6 @@ I build modular, performance-optimized applications designed for long-term maint
 
 ---
 
-
 ## 🏗 Engineering Principles
 
 - Architecture First, Features Second  
@@ -176,8 +174,6 @@ I build modular, performance-optimized applications designed for long-term maint
 - Clean Folder Structure & Code Separation  
 - Reusable Components & Modular Services  
 - Performance Monitoring & Optimization  
-
-Every project follows structured engineering discipline rather than quick fixes.
 
 ---
 
@@ -189,8 +185,6 @@ Every project follows structured engineering discipline rather than quick fixes.
 4. Modular Frontend Integration  
 5. Performance Optimization  
 
-I focus on delivering systems that are stable, scalable, and business-ready.
-
 ---
 
 ## 📈 What Makes My Work Different
@@ -201,7 +195,7 @@ I focus on delivering systems that are stable, scalable, and business-ready.
 ✔ API Optimization & Middleware Security  
 ✔ Scalable Folder Architecture  
 
-I don’t just build applications — I build structured systems that grow with business needs.
+I build applications with long-term maintainability in mind.
 
 ---
 
