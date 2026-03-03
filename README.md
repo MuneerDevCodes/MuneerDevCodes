@@ -2,56 +2,48 @@
         HERO SECTION
 ========================= -->
 
-<h1 align="center">Muneer</h1>
-
+<h1 align="center">Hi, I'm Muneer 👋</h1>
 <p align="center">
-  <b>Full Stack Engineer • MERN Architect • Scalable Systems Builder</b>
+  <b>Full Stack Developer · MERN Stack · PHP Laravel · Building real systems that actually work</b>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;MERN+Stack+Architect;Enterprise+Dashboard+Specialist;Secure+Backend+Engineer;Performance+Driven+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+%7C+PHP+Laravel;Dashboard+%26+Role+Systems+Builder;Always+learning%2C+always+shipping" />
 </p>
-
-<p align="center">
-  Building systems that scale and applications that stay maintainable over time.
-</p>
-
 <p align="center">
   <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Muneer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://www.fiverr.com/yourusername">
-    <img src="https://img.shields.io/badge/Fiverr-Freelance-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
-
   <a href="https://www.upwork.com/freelancers/~yourusername">
-    <img src="https://img.shields.io/badge/Upwork-Freelance-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
-
   <a href="mailto:yourprofessionalemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Business_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 
 
-## About
-
-I’m a full stack developer who enjoys building complete systems from scratch — starting from database design all the way to frontend deployment.
-
-Over time, I’ve worked on structured dashboard systems, authentication flows, role-based architectures, and business-focused applications. My focus is always on writing clean, understandable code that can be maintained and extended easily.
-
-I pay attention to project structure, naming conventions, API security, and database relationships because those small decisions are what make a system stable in the long run.
-
-For me, development is not just about making something work — it’s about making it reliable and scalable.
+## About Me
+I'm a full stack developer based in Pakistan. I've been building web applications for a while now — mostly dashboards, management systems, and role-based platforms where the backend logic matters just as much as what the user sees on screen.
+I work with the MERN stack day to day, but I've also built production projects in PHP Laravel, so I'm comfortable switching between ecosystems depending on what the project needs. Most of my work involves multi-role systems — admin panels, user portals, approval workflows — the kind of stuff where getting the database relationships and authorization logic right from the start saves a lot of headaches later.
+I care about project structure and clean code. Not in a perfectionist way, but in a "someone else (or future me) needs to understand this in six months" way. If the folder structure makes sense and the API responses are consistent, everything else is easier.
+Right now I'm focused on building my freelance presence internationally. I'm open to project-based work, long-term collaborations, or anything where solid backend architecture is needed.
 
 
 
 # 🛠 Tech Stack
 
 <p align="center">
-  <img height="100" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,nodejs,express,nestjs,php,laravel,python,mongodb,mysql,postgres,docker,git,github,postman,firebase,wordpress,shopify" />
+  <img height="50" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+<p align="center">
+  <img height="50" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python" />
+</p>
+<p align="center">
+  <img height="50" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker,git,postman" />
 </p>
 
 <p align="center">
@@ -60,31 +52,25 @@ For me, development is not just about making something work — it’s about mak
 
 ---
 
-# 🚀 Projects Portfolio
+# 🚀 Projects
+These are some of the projects I've built — each one tackled a different type of business problem, which is why I enjoyed working on them.
 
-<p align="center">
-  Structured systems • Production-ready engineering • Real-world business logic
-</p>
+## 🏨 Hotel Management System
+Stack: MongoDB · Express · React · Node.js (MERN)
+A full hotel operations platform built from scratch. I built this because hotel management is a good test of how well you can handle real-time data, multiple user roles, and booking logic without things getting messy.
+The system handles room availability in real time — when a booking is made or a room status changes, it reflects immediately without needing a page refresh. There are separate dashboards for admin and staff, each with their own permissions and views. JWT handles authentication across the whole application, and the backend is organized in a modular way so adding new features doesn't require touching existing code.
+What's inside:
 
-
-## 🏨 Hotel Management System  
-<sub>Enterprise Booking & Operations Platform</sub>
-
-**Highlights**
-- Role-Based Admin & Staff Dashboards  
-- Real-Time Room Availability Engine  
-- Secure JWT Authentication  
-- Modular MERN Architecture  
+Admin dashboard with full room and booking management
+Staff dashboard with role-restricted access
+Real-time room availability tracking
+Secure JWT-based authentication and authorization
+Modular backend architecture (easy to extend)
 
 <p>
 <a href="https://github.com/yourusername/hotel-management-system">
-  <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-9E9E9E?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/yourusername/hotel-management-system/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/Download-Source_Code-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -92,24 +78,24 @@ For me, development is not just about making something work — it’s about mak
 
 ---
 
-## 🎪 EventSphere – Expo Management Platform  
-<sub>Multi-Role Exhibitor & Admin Workflow System</sub>
+## 🎪 EventSphere — Expo & Trade Show Management Platform
+Stack: MongoDB · Express · React · Node.js (MERN)
+EventSphere was built to solve the real problem that large expo organizers face — managing exhibitors, booth spaces, and attendees all through the same platform with different access levels for each.
+The system has three distinct user roles: organizers (admin), exhibitors, and attendees. Each role has its own dashboard and can only see and do what they're supposed to. Exhibitors apply to participate in expos, and organizers review and approve or reject those applications. Once approved, exhibitors can view the floor plan and select their booth space. Attendees can browse the event schedule, search for exhibitors by category, and register for specific sessions.
+One thing I paid attention to here was the authorization layer — it's not enough to just hide buttons in the UI, so access control is enforced at the API level too.
+What's inside:
 
-**Highlights**
-- Application Approval Workflow  
-- Dynamic Booth Allocation Logic  
-- Multi-Dashboard Role Rendering  
-- Secure Backend Authorization Layer  
+Multi-role system: Admin / Exhibitor / Attendee dashboards
+Exhibitor application and approval workflow
+Dynamic booth allocation with floor plan view
+Session scheduling and attendee registration
+Real-time updates for booth and schedule changes
+Secure backend authorization (role-checked at API level)
 
 <p>
 <a href="https://github.com/yourusername/eventsphere">
-  <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-9E9E9E?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/yourusername/eventsphere/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/Download-Source_Code-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -117,24 +103,24 @@ For me, development is not just about making something work — it’s about mak
 
 ---
 
-## 💉 Covid Test & Vaccination Management System  
-<sub>Secure Appointment & Scheduling Platform</sub>
+## 💉 COVID Test & Vaccination Booking System
+Stack: PHP · Laravel · MySQL
+Built during a time when this kind of system was actually relevant. The idea was to connect patients with hospitals for COVID testing and vaccination appointments — removing the need for physical queues and phone calls.
+There are three roles: Admin, Hospital, and Patient. The admin manages hospital approvals and has visibility across all bookings and reports. Hospitals register on the platform, manage incoming test/vaccination requests from patients, and update results once tests are done. Patients can search for nearby hospitals, book appointments, and check their results and vaccination status from their own dashboard.
+The backend is built on Laravel with a clean MVC structure and a relational database design — the kind that makes reporting queries straightforward rather than painful.
+What's inside:
 
-**Highlights**
-- Authentication & Validation Layers  
-- Admin-Controlled Scheduling  
-- Clean MVC Architecture  
-- Relational Database Modeling  
+Three-role system: Admin / Hospital / Patient
+Appointment booking and management flow
+Hospital approval system (admin-controlled)
+Test result and vaccination status updates
+Date/week/month-wise reports with export
+Clean Laravel MVC architecture with relational DB
 
 <p>
 <a href="https://github.com/yourusername/covid-management">
-  <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-9E9E9E?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/yourusername/covid-management/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/Download-Source_Code-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -142,22 +128,22 @@ For me, development is not just about making something work — it’s about mak
 
 ---
 
-## 👗 Maverick Dresses – eCommerce Frontend  
-<sub>Modern Responsive Storefront Interface</sub>
+## 👗 Maverick Dresses — Uniform eCommerce Website
+Stack: HTML5 · CSS3 · JavaScript · Bootstrap
+A frontend project for a school uniform manufacturer. Maverick Dresses supplies uniforms to schools across the country, and they needed a clean, professional website that showcases their product categories and makes it easy for clients to get in touch.
+This was a single-page responsive application — everything loads on one page with smooth navigation between sections. Products are organized by category (shirts, skirts, P.T. wear, accessories, etc.), and the site includes a contact section with integrated geolocation to display the company's outlet locations on a map. There's also a feedback form, gallery, and a live scrolling ticker showing current date, time, and visitor location.
+What's inside:
 
-**Highlights**
-- Clean Product Grid Layout  
-- Responsive UI Components  
-- Optimized Layout Structure  
-- Bootstrap-Based Architecture  
+Responsive single-page application (SPA) layout
+Product grid organized by category
+Geolocation API integration for outlet map display
+Live ticker with real-time date, time, and location
+Feedback form and gallery section
+Smooth hover and navigation animations
 
 <p>
 <a href="https://github.com/yourusername/maverick-dresses">
-  <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-9E9E9E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/yourusername/maverick-dresses/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/Download-Source_Code-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
@@ -166,57 +152,22 @@ For me, development is not just about making something work — it’s about mak
 
 ---
 
-## 🏗 Engineering Principles
-
-- Architecture First, Features Second  
-- Security by Design  
-- Scalable Database Modeling  
-- Clean Folder Structure & Code Separation  
-- Reusable Components & Modular Services  
-- Performance Monitoring & Optimization  
-
----
-
-## 📊 Development Approach
-
-1. Requirement Analysis & System Planning  
-2. Database & Architecture Design  
-3. Secure Backend Development  
-4. Modular Frontend Integration  
-5. Performance Optimization  
-
----
-
-## 📈 What Makes My Work Different
-
-✔ Structured & Clean Codebase  
-✔ Enterprise-Level Dashboard Logic  
-✔ Proper Role-Based System Design  
-✔ API Optimization & Middleware Security  
-✔ Scalable Folder Architecture  
-
-I build applications with long-term maintainability in mind.
-
----
-
 # 🌐 Let's Connect
-
+I'm available for freelance projects internationally. If you need a full stack developer who can handle both the backend architecture and the frontend, feel free to reach out.
 <p align="center">
-
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="https://www.fiverr.com/yourusername">
-  <img src="https://img.shields.io/badge/Fiverr-Freelance-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</a>
-
-<a href="https://www.upwork.com/freelancers/~yourusername">
-  <img src="https://img.shields.io/badge/Upwork-Freelance-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-
-<a href="https://www.freelancer.com/u/yourusername">
-  <img src="https://img.shields.io/badge/Freelancer-Freelance-0E76A8?style=for-the-badge&logo=freelancer&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/yourusername">
+    <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~yourusername">
+    <img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://www.freelancer.com/u/yourusername">
+    <img src="https://img.shields.io/badge/Freelancer-Hire_Me-0E76A8?style=for-the-badge&logo=freelancer&logoColor=white"/>
+  </a>
+  <a href="mailto:yourprofessionalemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
