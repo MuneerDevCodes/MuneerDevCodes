@@ -146,6 +146,9 @@ Smooth hover and navigation animations
 <a href="https://github.com/yourusername/maverick-dresses/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/Download-Source_Code-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+        <a href="https://muneerdevcodes.github.io/Maverick_Dresses/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Live-Website-28a745?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ---
